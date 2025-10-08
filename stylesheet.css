@@ -6,7 +6,7 @@ a {
   text-decoration: none;
 }
 
-.top-warpper {
+.top-wrapper {
   padding: 180px 0 100px 0;
   background-size: cover;
   color: white;
@@ -19,7 +19,7 @@ a {
   letter-spacing: 5px;
 }
 
-.top-warpper p {
+.top-wrapper p {
   opacity: 0.7;
 }
 
